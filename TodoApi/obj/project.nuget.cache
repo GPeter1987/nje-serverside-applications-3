@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8v3lHXgzcA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peter\\Documents\\GitHub\\nje-serverside-applications-3\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
