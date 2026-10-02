@@ -20,7 +20,8 @@ GET {{TodoApi_HostAddress}}/api/todoitems/{{id}}
 
 ###
 
-PUT {{TodoApi_HostAddress}}/api/todoitems/1
+@id=1
+PUT {{TodoApi_HostAddress}}/api/todoitems/{{id}}
 Content-Type: application/json
 
 {
@@ -28,5 +29,10 @@ Content-Type: application/json
   "name": "feed fish",
   "isComplete": false
 }
+
+###
+
+@id=1
+DELETE {{TodoApi_HostAddress}}/api/todoitems/{{id}}
 
 ###
